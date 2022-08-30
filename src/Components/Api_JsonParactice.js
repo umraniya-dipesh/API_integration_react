@@ -35,7 +35,6 @@ const ApiJsonParactice = () => {
                 <th>User ID</th>
                 <th>Title</th>
                 <th>Body</th>
-                <th>Action</th>
               </tr>
             </thead>
             <tbody>
